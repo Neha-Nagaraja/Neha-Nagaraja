@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a research paper.
 - 🌱 I’m currently learning AI.
-- 👯 I’m looking to collaborate on Machine Learning projects.
+- 👯 I’m looking to collaborate on Machine Learning or Android App development projects.
 - 📫 You can reach me on:  
 
 [1]: https://www.linkedin.com/in/neha-n-b81ab3172
