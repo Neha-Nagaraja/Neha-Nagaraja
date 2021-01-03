@@ -1,18 +1,16 @@
 <img src = "https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif" width = "250" height = "250">
-### My name is Neha N
- 
 
-<!--
-**Neha-Nagaraja/Neha-Nagaraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Neha N ([Resume](https://drive.google.com/file/d/1Dp-dEbAwPdShggMLx0-1sqoKmd1wWdYj/view))
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a research paper.
+- 🌱 I’m currently learning AI.
+- 👯 I’m looking to collaborate on Machine Learning projects.
+- 📫 You can reach me on:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]: https://www.linkedin.com/in/neha-n-b81ab3172
+[2]: https://www.instagram.com/neha_sama12/
+[3]: https://www.nehanagaraj98@gmail.com
+
+  [![linkedin](https://img.icons8.com/ios/48/linkedin.png)][1]
+  [![instagram](https://img.icons8.com/doodle/48/instagram-new.png)][2]
+  [![gmail](https://img.icons8.com/doodle/1x/gmail.png)][3]
