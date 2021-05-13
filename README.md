@@ -2,7 +2,7 @@
 
 ## My name is Neha N ([Resume](https://drive.google.com/file/d/1gn9AHxbg_CGPNyFwHEPtS30skr8CRROv/view?usp=sharing))
 
-- 🔭 I’m currently working on a research paper.
+- 🔭 I’m currently doing an internship in IISc.
 - 🌱 I’m currently learning AI.
 - 👯 I’m looking to collaborate on Machine Learning or Android App development projects.
 - 📫 You can reach me on:  
