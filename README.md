@@ -1,6 +1,6 @@
 <img src = "https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif" width = "200" height = "200">
 
-## My name is Neha N ([Resume](https://drive.google.com/file/d/1gn9AHxbg_CGPNyFwHEPtS30skr8CRROv/view?usp=sharing))
+## My name is Neha N ([Resume](https://drive.google.com/file/d/1TCq3XRzHhfZnO-cRT9ZtnER1qWQnfVH2/view?usp=sharing)
 
 - 🔭 I’m currently doing an internship in IISc.
 - 🌱 I’m currently learning AI.
